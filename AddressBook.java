@@ -424,6 +424,9 @@ public class AddressBook {
         return getMessageForSuccessfulAddPerson(personToAdd);
     }
 
+    /**
+     * sort the list in alphabetical order
+     */
     private static void sortAddressBook(){
         Collections.sort(ALL_PERSONS, new Comparator<String[]>() {
             @Override
