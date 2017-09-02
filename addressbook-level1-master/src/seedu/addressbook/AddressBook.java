@@ -425,7 +425,7 @@ public class AddressBook {
     }
 
     /**
-     * sort the list in alphabetical order
+     * Sort the list in alphabetical order
      */
     private static void sortAddressBook(){
         Collections.sort(ALL_PERSONS, new Comparator<String[]>() {
