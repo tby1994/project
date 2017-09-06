@@ -196,7 +196,6 @@ public class AddressBook {
      * If the reader wants a deeper understanding of the solution, she can go
      * to the next level of abstraction by reading the methods that are
      * referenced by the high-level method below.
-     * testing merge function for sourceTree
      * ====================================================================
      */
 
